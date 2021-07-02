@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\bin\Debug\net5.0\TaleonLtd.Services.Mapping.deps.json
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\bin\Debug\net5.0\TaleonLtd.Services.Mapping.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\bin\Debug\net5.0\ref\TaleonLtd.Services.Mapping.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\bin\Debug\net5.0\TaleonLtd.Services.Mapping.pdb
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\obj\Debug\net5.0\TaleonLtd.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\obj\Debug\net5.0\TaleonLtd.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\obj\Debug\net5.0\TaleonLtd.Services.Mapping.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\obj\Debug\net5.0\TaleonLtd.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\obj\Debug\net5.0\TaleonLtd.Services.Mapping.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\obj\Debug\net5.0\ref\TaleonLtd.Services.Mapping.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\obj\Debug\net5.0\TaleonLtd.Services.Mapping.pdb
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Mapping\obj\Debug\net5.0\TaleonLtd.Services.Mapping.csproj.AssemblyReference.cache

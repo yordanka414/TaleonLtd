@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\bin\Debug\netstandard2.1\TaleonLtd.Common.deps.json
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\bin\Debug\netstandard2.1\TaleonLtd.Common.dll
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\bin\Debug\netstandard2.1\TaleonLtd.Common.pdb
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\obj\Debug\netstandard2.1\TaleonLtd.Common.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\obj\Debug\netstandard2.1\TaleonLtd.Common.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\obj\Debug\netstandard2.1\TaleonLtd.Common.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\obj\Debug\netstandard2.1\TaleonLtd.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\obj\Debug\netstandard2.1\TaleonLtd.Common.dll
+C:\Users\HP\Desktop\TaleonLtd\TaleonLtd.Common\obj\Debug\netstandard2.1\TaleonLtd.Common.pdb

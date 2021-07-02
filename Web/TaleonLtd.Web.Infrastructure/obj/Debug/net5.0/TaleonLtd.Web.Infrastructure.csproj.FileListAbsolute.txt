@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\bin\Debug\net5.0\TaleonLtd.Web.Infrastructure.deps.json
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\bin\Debug\net5.0\TaleonLtd.Web.Infrastructure.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\bin\Debug\net5.0\ref\TaleonLtd.Web.Infrastructure.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\bin\Debug\net5.0\TaleonLtd.Web.Infrastructure.pdb
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\net5.0\TaleonLtd.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\net5.0\TaleonLtd.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\net5.0\TaleonLtd.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\net5.0\TaleonLtd.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\net5.0\TaleonLtd.Web.Infrastructure.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\net5.0\ref\TaleonLtd.Web.Infrastructure.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\net5.0\TaleonLtd.Web.Infrastructure.pdb
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\net5.0\TaleonLtd.Web.Infrastructure.csproj.AssemblyReference.cache

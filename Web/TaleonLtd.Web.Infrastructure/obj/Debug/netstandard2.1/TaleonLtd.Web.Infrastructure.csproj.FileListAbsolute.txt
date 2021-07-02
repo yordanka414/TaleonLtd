@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\bin\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.deps.json
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\bin\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\bin\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.pdb
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.Infrastructure\obj\Debug\netstandard2.1\TaleonLtd.Web.Infrastructure.pdb

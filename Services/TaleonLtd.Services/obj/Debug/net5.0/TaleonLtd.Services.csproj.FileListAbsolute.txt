@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\bin\Debug\net5.0\TaleonLtd.Services.deps.json
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\bin\Debug\net5.0\TaleonLtd.Services.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\bin\Debug\net5.0\ref\TaleonLtd.Services.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\bin\Debug\net5.0\TaleonLtd.Services.pdb
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\obj\Debug\net5.0\TaleonLtd.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\obj\Debug\net5.0\TaleonLtd.Services.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\obj\Debug\net5.0\TaleonLtd.Services.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\obj\Debug\net5.0\TaleonLtd.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\obj\Debug\net5.0\TaleonLtd.Services.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\obj\Debug\net5.0\ref\TaleonLtd.Services.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\obj\Debug\net5.0\TaleonLtd.Services.pdb
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services\obj\Debug\net5.0\TaleonLtd.Services.csproj.AssemblyReference.cache

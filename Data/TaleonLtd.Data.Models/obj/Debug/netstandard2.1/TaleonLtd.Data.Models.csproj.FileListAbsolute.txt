@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\bin\Debug\netstandard2.1\TaleonLtd.Data.Models.deps.json
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\bin\Debug\netstandard2.1\TaleonLtd.Data.Models.dll
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\bin\Debug\netstandard2.1\TaleonLtd.Data.Models.pdb
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\bin\Debug\netstandard2.1\TaleonLtd.Data.Common.dll
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\bin\Debug\netstandard2.1\TaleonLtd.Data.Common.pdb
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\obj\Debug\netstandard2.1\TaleonLtd.Data.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\obj\Debug\netstandard2.1\TaleonLtd.Data.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\obj\Debug\netstandard2.1\TaleonLtd.Data.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\obj\Debug\netstandard2.1\TaleonLtd.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\obj\Debug\netstandard2.1\TaleonLtd.Data.Models.csproj.CopyComplete
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\obj\Debug\netstandard2.1\TaleonLtd.Data.Models.dll
+C:\Users\HP\Desktop\TaleonLtd\Data\TaleonLtd.Data.Models\obj\Debug\netstandard2.1\TaleonLtd.Data.Models.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vaEpsWhaUcz7LFPW3o0xa4QqSF6zNH6Fke8++Tjoi0nl13sw5KfsEcd1L5cOBsNgwXYPs7Kpm6PZwcZ1zhaa4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\TaleonLtd\\Web\\TaleonLtd.Web.Infrastructure\\TaleonLtd.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

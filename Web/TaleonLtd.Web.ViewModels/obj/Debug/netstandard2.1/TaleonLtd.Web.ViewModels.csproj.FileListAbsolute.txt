@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.deps.json
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.pdb
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Data.Common.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Data.Models.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Services.Mapping.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Data.Models.pdb
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Services.Mapping.pdb
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\bin\Debug\netstandard2.1\TaleonLtd.Data.Common.pdb
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\obj\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\obj\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\obj\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\obj\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\obj\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.csproj.CopyComplete
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\obj\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.dll
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web.ViewModels\obj\Debug\netstandard2.1\TaleonLtd.Web.ViewModels.pdb

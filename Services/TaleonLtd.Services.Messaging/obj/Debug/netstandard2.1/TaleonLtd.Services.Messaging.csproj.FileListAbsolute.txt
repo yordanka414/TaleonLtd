@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\bin\Debug\netstandard2.1\TaleonLtd.Services.Messaging.deps.json
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\bin\Debug\netstandard2.1\TaleonLtd.Services.Messaging.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\bin\Debug\netstandard2.1\TaleonLtd.Services.Messaging.pdb
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\obj\Debug\netstandard2.1\TaleonLtd.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\obj\Debug\netstandard2.1\TaleonLtd.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\obj\Debug\netstandard2.1\TaleonLtd.Services.Messaging.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\obj\Debug\netstandard2.1\TaleonLtd.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\obj\Debug\netstandard2.1\TaleonLtd.Services.Messaging.dll
+C:\Users\HP\Desktop\TaleonLtd\Services\TaleonLtd.Services.Messaging\obj\Debug\netstandard2.1\TaleonLtd.Services.Messaging.pdb
