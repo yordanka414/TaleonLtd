@@ -22,7 +22,7 @@
         }
 
         [HttpPost]
-        public IActionResult RegisterUsersDetails(UsersInputModel input)
+        public IActionResult RegisterUsersDetails(UserInputModel input)
         {
 
             return this.View();

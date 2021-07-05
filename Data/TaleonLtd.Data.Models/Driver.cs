@@ -8,6 +8,8 @@
     {
         public string DrivingLicense { get; set; }
 
-        public virtual ICollection<DriverVehicle> Vehicles { get; set; }
+        public virtual ICollection<DriverVehicle> Vehicles { get; set; } = new HashSet<DriverVehicle>();
+
+        public virtual ICollection<Accident> Accidents { get; set; } = new HashSet<Accident>();
     }
 }
