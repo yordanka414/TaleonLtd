@@ -26,8 +26,15 @@ using TaleonLtd.Web.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\Views\_ViewImports.cshtml"
+using TaleonLtd.Web.ViewModels.Accidents;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a962d67bd48083783c55dde33004b3d132333a84", @"/Views/Settings/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4b288c4c7106309e41b9d51fd8dbebf5f0bee53e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d8b63526d6ab22c097e5ac1d5dd55eabeda79dd9", @"/Views/_ViewImports.cshtml")]
     public class Views_Settings_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<TaleonLtd.Web.ViewModels.Settings.SettingsListViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "SendEmail", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -108,7 +115,7 @@ Write(this.ViewData["Title"]);
 #line hidden
 #nullable disable
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a962d67bd48083783c55dde33004b3d132333a845461", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a962d67bd48083783c55dde33004b3d132333a845658", async() => {
                 WriteLiteral("Send Email");
             }
             );
@@ -125,7 +132,7 @@ Write(this.ViewData["Title"]);
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a962d67bd48083783c55dde33004b3d132333a846707", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a962d67bd48083783c55dde33004b3d132333a846904", async() => {
                 WriteLiteral("Insert new");
             }
             );

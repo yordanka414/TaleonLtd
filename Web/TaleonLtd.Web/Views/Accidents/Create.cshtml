@@ -1,0 +1,26 @@
+﻿@model CreateViewModel
+@{  
+    this.ViewData["Title"] = "Add new accident";
+   
+}
+
+<form method="post" class="col-md-6 offset-md-3"
+      enctype="multipart/form-data">
+    <h1>@this.ViewData["Title"]</h1>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="VehicleId"></label>
+        <input asp-for="VehicleId" class="form-control" />
+        <span asp-validation-for="VehicleId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AccidentDate"></label>
+        <textarea asp-for="AccidentDate" class="form-control" rows="5"></textarea>
+        <span asp-validation-for="AccidentDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    </form>

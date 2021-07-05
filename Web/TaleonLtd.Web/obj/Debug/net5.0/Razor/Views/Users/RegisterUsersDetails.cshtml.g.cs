@@ -26,8 +26,15 @@ using TaleonLtd.Web.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\Views\_ViewImports.cshtml"
+using TaleonLtd.Web.ViewModels.Accidents;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"bc053512beb3804213cca0dbd1820014ed000113", @"/Views/Users/RegisterUsersDetails.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4b288c4c7106309e41b9d51fd8dbebf5f0bee53e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d8b63526d6ab22c097e5ac1d5dd55eabeda79dd9", @"/Views/_ViewImports.cshtml")]
     public class Views_Users_RegisterUsersDetails : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -56,7 +63,7 @@ using TaleonLtd.Web.ViewModels;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n<div class=\"head\">\r\n    <div class=\"container\">\r\n        <div class=\"title\">\r\n            <h1>sign up now!</h1>\r\n        </div>\r\n    </div>\r\n</div>\r\n\r\n<div class=\"content\">\r\n    <div class=\"container\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc053512beb3804213cca0dbd1820014ed0001133524", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc053512beb3804213cca0dbd1820014ed0001133721", async() => {
                 WriteLiteral(@"
             <div class=""first"">
                 <label for=""first"">first name:</label>
