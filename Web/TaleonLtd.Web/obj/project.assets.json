@@ -21,6 +21,18 @@
           "build/BuildBundlerMinifier.targets": {}
         }
       },
+      "getAddress.Sdk/2.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/GetAddress.Sdk.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/GetAddress.Sdk.dll": {}
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1872,11 +1884,11 @@
           "ref/netstandard1.0/System.Resources.ResourceManager.dll": {}
         }
       },
-      "System.Runtime/4.3.0": {
+      "System.Runtime/4.3.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.1.0",
-          "Microsoft.NETCore.Targets": "1.1.0"
+          "Microsoft.NETCore.Platforms": "1.1.1",
+          "Microsoft.NETCore.Targets": "1.1.3"
         },
         "compile": {
           "ref/netstandard1.5/System.Runtime.dll": {}
@@ -2177,13 +2189,13 @@
           "lib/netstandard2.0/System.Text.Encodings.Web.dll": {}
         }
       },
-      "System.Text.RegularExpressions/4.3.0": {
+      "System.Text.RegularExpressions/4.3.1": {
         "type": "package",
         "dependencies": {
-          "System.Runtime": "4.3.0"
+          "System.Runtime": "4.3.1"
         },
         "compile": {
-          "ref/netcoreapp1.1/_._": {}
+          "ref/netcoreapp1.1/System.Text.RegularExpressions.dll": {}
         },
         "runtime": {
           "lib/netstandard1.6/System.Text.RegularExpressions.dll": {}
@@ -2370,7 +2382,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "System.ComponentModel.Annotations": "5.0.0"
+          "System.ComponentModel.Annotations": "5.0.0",
+          "System.Text.RegularExpressions": "4.3.1"
         },
         "compile": {
           "bin/placeholder/TaleonLtd.Data.Common.dll": {}
@@ -2513,6 +2526,18 @@
         "tools/netstandard1.3/BundlerMinifier.dll",
         "tools/netstandard1.3/NUglify.dll",
         "tools/netstandard1.3/Newtonsoft.Json.dll"
+      ]
+    },
+    "getAddress.Sdk/2.0.3": {
+      "sha512": "slcdDa8vyHicTxMc9DLWJZX8yiV0f+z7JLOSUqnitZ+EA7nSOcVJCMH5oKwY6mO6FsDfCVdnyi3PLGpwSYvL1A==",
+      "type": "package",
+      "path": "getaddress.sdk/2.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "getaddress.sdk.2.0.3.nupkg.sha512",
+        "getaddress.sdk.nuspec",
+        "lib/netstandard2.0/GetAddress.Sdk.dll"
       ]
     },
     "Humanizer.Core/2.8.26": {
@@ -6609,12 +6634,13 @@
         "system.resources.resourcemanager.nuspec"
       ]
     },
-    "System.Runtime/4.3.0": {
-      "sha512": "JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+    "System.Runtime/4.3.1": {
+      "sha512": "abhfv1dTK6NXOmu4bgHIONxHyEqFjW8HwXPmpY9gmll+ix9UNo4XDcmzJn6oLooftxNssVHdJC1pGT9jkSynQg==",
       "type": "package",
-      "path": "system.runtime/4.3.0",
+      "path": "system.runtime/4.3.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6696,7 +6722,7 @@
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._",
-        "system.runtime.4.3.0.nupkg.sha512",
+        "system.runtime.4.3.1.nupkg.sha512",
         "system.runtime.nuspec"
       ]
     },
@@ -7662,12 +7688,13 @@
         "version.txt"
       ]
     },
-    "System.Text.RegularExpressions/4.3.0": {
-      "sha512": "RpT2DA+L660cBt1FssIE9CAGpLFdFPuheB7pLpKpn6ZXNby7jDERe8Ua/Ne2xGiwLVG2JOqziiaVCGDon5sKFA==",
+    "System.Text.RegularExpressions/4.3.1": {
+      "sha512": "N0kNRrWe4+nXOWlpLT4LAY5brb8caNFlUuIRpraCVMDLYutKkol1aV079rQjLuSxKMJT2SpBQsYX9xbcTMmzwg==",
       "type": "package",
-      "path": "system.text.regularexpressions/4.3.0",
+      "path": "system.text.regularexpressions/4.3.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7741,7 +7768,7 @@
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._",
-        "system.text.regularexpressions.4.3.0.nupkg.sha512",
+        "system.text.regularexpressions.4.3.1.nupkg.sha512",
         "system.text.regularexpressions.nuspec"
       ]
     },
@@ -8260,7 +8287,8 @@
       "TaleonLtd.Services.Mapping >= 1.0.0",
       "TaleonLtd.Services.Messaging >= 1.0.0",
       "TaleonLtd.Web.Infrastructure >= 1.0.0",
-      "TaleonLtd.Web.ViewModels >= 1.0.0"
+      "TaleonLtd.Web.ViewModels >= 1.0.0",
+      "getAddress.Sdk >= 2.0.3"
     ]
   },
   "packageFolders": {
@@ -8383,6 +8411,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[1.2.0-beta.312, )"
+          },
+          "getAddress.Sdk": {
+            "target": "Package",
+            "version": "[2.0.3, )"
           }
         },
         "imports": [

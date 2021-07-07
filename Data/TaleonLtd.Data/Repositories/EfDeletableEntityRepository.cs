@@ -1,8 +1,10 @@
 ﻿namespace TaleonLtd.Data.Repositories
 {
-    using Microsoft.EntityFrameworkCore;
     using System;
     using System.Linq;
+
+    using Microsoft.EntityFrameworkCore;
+
     using TaleonLtd.Data.Common.Models;
     using TaleonLtd.Data.Common.Repositories;
 

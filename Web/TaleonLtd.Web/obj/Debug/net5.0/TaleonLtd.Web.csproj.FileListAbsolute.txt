@@ -470,3 +470,7 @@ C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\obj\Debug\net5.0\Razor\Areas\Ide
 C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
 C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\obj\Debug\net5.0\Razor\Areas\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\obj\Debug\net5.0\Razor\Views\Accidents\Create.cshtml.g.cs
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\obj\Debug\net5.0\Razor\Views\Customers\Register.cshtml.g.cs
+C:\Users\HP\Desktop\TaleonLtd\Web\TaleonLtd.Web\bin\Debug\net5.0\GetAddress.Sdk.dll

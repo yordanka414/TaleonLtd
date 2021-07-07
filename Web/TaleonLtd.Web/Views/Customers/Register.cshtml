@@ -1,19 +1,8 @@
-﻿<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
+﻿@model TaleonLtd.Web.ViewModels.Customers.CustomerInputModel
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
 
 
 <div class="container">
-    <br>  <p class="text-center">More bootstrap 4 components on <a href="http://bootstrap-ecommerce.com/"> Bootstrap-ecommerce.com</a></p>
-    <hr>
-
-
-
-
-
     <div class="card bg-light">
         <article class="card-body mx-auto" style="max-width: 400px;">
             <h4 class="card-title mt-3 text-center">Create Account</h4>
@@ -25,80 +14,129 @@
             <p class="divider-text">
                 <span class="bg-light">OR</span>
             </p>
-            <form>
+            <form asp-controller="Customers" asp-action="Register" methos="post">
                 <div class="form-group input-group">
                     <div class="input-group-prepend">
                         <span class="input-group-text"> <i class="fa fa-user"></i> </span>
                     </div>
-                    <input name="" class="form-control" placeholder="Full name" type="text">
+                    <input asp-for="Firstname" class="form-control" placeholder="First name" type="text">
                 </div> <!-- form-group// -->
+                <div class="form-group input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"> <i class="fa fa-user"></i> </span>
+                    </div>
+                    <input asp-for="Surname" class="form-control" placeholder="Surname" type="text">
+                </div>
                 <div class="form-group input-group">
                     <div class="input-group-prepend">
                         <span class="input-group-text"> <i class="fa fa-envelope"></i> </span>
                     </div>
-                    <input name="" class="form-control" placeholder="Email address" type="email">
+                    <input asp-for="Email" class="form-control" placeholder="Email address" type="email">
                 </div> <!-- form-group// -->
                 <div class="form-group input-group">
                     <div class="input-group-prepend">
                         <span class="input-group-text"> <i class="fa fa-phone"></i> </span>
                     </div>
                     <select class="custom-select" style="max-width: 120px;">
-                        <option selected="">+971</option>
-                        <option value="1">+972</option>
-                        <option value="2">+198</option>
-                        <option value="3">+701</option>
+                        <option selected="">+44</option>
+                        <option value="1">+34</option>
+
                     </select>
-                    <input name="" class="form-control" placeholder="Phone number" type="text">
+                    <input name="phoneNumber" class="form-control" placeholder="Phone number" type="text">
                 </div> <!-- form-group// -->
-                <div class="form-group input-group">
+                <!--<div class="form-group input-group">
                     <div class="input-group-prepend">
                         <span class="input-group-text"> <i class="fa fa-building"></i> </span>
-                    </div>
-                    <select class="form-control">
+                    </div>-->
+                    @*<select class="form-control">
                         <option selected=""> Select job type</option>
                         <option>Designer</option>
                         <option>Manager</option>
                         <option>Accaunting</option>
-                    </select>
-                </div> <!-- form-group end.// -->
+                    </select>*@
+                <!--</div>--> <!-- form-group end.// -->
+                <div class="form-group input-group">
+                    <!-- Postcode field -->
+                    <div id="postcode_lookup"></div>
+                    <!-- Add to your existing form -->
+                </div>
+                <div class="form-group input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"> <i class="fa fa-address-card-o"></i> </span>
+                    </div>
+                    <input id="line1" class="form-control" asp-for="FirstLine" placeholder="First Address Line" type="text">
+                </div>
+                <div class="form-group input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"> <i class="fa fa-address-card-o"></i> </span>
+                    </div>
+                    <input id="line2" class="form-control" asp-for="SecondLine" placeholder="Second Address Line" type="text">
+                </div>
+                <div class="form-group input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"> <i class="fa fa-address-card-o"></i> </span>
+                    </div>
+                    <input id="line3" class="form-control"  asp-for="ThirdLine" placeholder="Third Address Line" type="text">
+                </div>
+                <div class="form-group input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"> <i class="fa-solid fa-map-location"></i> </span>
+                    </div>
+                    <input id="town" class="form-control" asp-for="Town" placeholder="Town" type="text">
+                </div>
+                <div class="form-group input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"> <i class="fa-solid fa-map-location"></i> </span>
+                    </div>
+                    <input id="county" class="form-control"asp-for="Country" placeholder="County" type="text">
+                </div>
+
+                <div class="form-group input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"> <i class=""></i> </span>
+                    </div>
+                    <input id="postcode" class="form-control"asp-for="Postcode" placeholder="Postcode" type="text">
+                </div>
                 <div class="form-group input-group">
                     <div class="input-group-prepend">
                         <span class="input-group-text"> <i class="fa fa-lock"></i> </span>
                     </div>
-                    <input class="form-control" placeholder="Create password" type="password">
+                    <input class="form-control"asp-for="Password"  asp-validation-for="Password" placeholder="Create password" type="password">
                 </div> <!-- form-group// -->
                 <div class="form-group input-group">
                     <div class="input-group-prepend">
                         <span class="input-group-text"> <i class="fa fa-lock"></i> </span>
                     </div>
-                    <input class="form-control" placeholder="Repeat password" type="password">
+                    <input class="form-control"asp-for="RepeatePassword"  asp-validation-for="Password" placeholder="Repeat password" type="password">
                 </div> <!-- form-group// -->
                 <div class="form-group">
                     <button type="submit" class="btn btn-primary btn-block"> Create Account  </button>
                 </div> <!-- form-group// -->
                 <p class="text-center">Have an account? <a href="">Log In</a> </p>
+
             </form>
         </article>
-    </div> <!-- card.// -->
-
+    </div>  
 </div>
 <!--container end.//-->
+<script src="jquery.js"></script>
+<script src="https://use.fontawesome.com/ed1c054027.js"></script>
+<!-- Include JQuery v2+ -->
+<!-- Include plugin file -->
+<script src="https://cdn.getaddress.io/scripts/jquery.getAddress-4.0.0.min.js"></script>
 
-<br>
-<br>
-<article class="bg-secondary mb-3">
-    <div class="card-body text-center">
-        <h3 class="text-white mt-3">Bootstrap 4 UI KIT</h3>
-        <p class="h5 text-white">
-            Components and templates  <br> for Ecommerce, marketplace, booking websites
-            and product landing pages
-        </p>   <br>
-        <p>
-            <a class="btn btn-warning" target="_blank" href="http://bootstrap-ecommerce.com/">
-                Bootstrap-ecommerce.com
-                <i class="fa fa-window-restore "></i>
-            </a>
-        </p>
-    </div>
-    <br><br>
-</article>
+<!-- Add after your form -->
+<script>
+    $('#postcode_lookup').getAddress(
+        {
+            api_key: '7CUb3z3sqEOPo6SP2f2Bkw31907',
+            output_fields: {
+                line_1: '#line1',
+                line_2: '#line2',
+                line_3: '#line3',
+                post_town: '#town',
+                county: '#county',
+                postcode: '#postcode'
+            }
+        });
+</script>

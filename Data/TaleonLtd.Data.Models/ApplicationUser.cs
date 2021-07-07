@@ -1,9 +1,11 @@
 ﻿// ReSharper disable VirtualMemberCallInConstructor
 namespace TaleonLtd.Data.Models
 {
-    using Microsoft.AspNetCore.Identity;
     using System;
     using System.Collections.Generic;
+
+    using Microsoft.AspNetCore.Identity;
+
     using TaleonLtd.Data.Common.Models;
 
     public class ApplicationUser : IdentityUser, IAuditInfo, IDeletableEntity

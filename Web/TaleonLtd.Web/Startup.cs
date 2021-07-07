@@ -63,6 +63,8 @@
             // Application services
             //  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
             services.AddTransient<IEmailSender>(provider => new SendGridEmailSender("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"));
+            services.AddSingleton(s => new GetAddress.ApiKeys("7CUb3z3sqEOPo6SP2f2Bkw31907", "5_Vl7HlOhU-blQDouJpx3g31907"));
+            services.AddHttpClient<GetAddress.Api>();
             services.AddTransient<ISettingsService, SettingsService>();
         }
 
